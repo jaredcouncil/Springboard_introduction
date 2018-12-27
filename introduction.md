@@ -1,38 +1,28 @@
 # Biography
 
-Hi everyone. My name is Tom. I have a background in innovation and research and development. It was my early days as a materials science researcher that got me into data science&mdash;before the blend of software engineering, science, hacking, statistics, and domain knowledge had a name.
+I'm Jared. I'm a journalist looking to become a data journalist. So I figure learning data-science skills is the best way to make that happen. I've been dealing with numbers and stats for years, and want to be able to better gather/analyze them to tell meaningful and interesting stories. 
 
 # What I hope to gain from this course
 
 Three things I hope to gain from this course are:
 
-1. Helping others to learn new skills
-2. Encouraging [evidence-based decision making](https://en.wikipedia.org/wiki/Evidence-based_management)
+1. Learn how data scientists gather/analyze data
+2. An understanding of how machine learning can be useful for the editorial side of journalism
+3. Coding skills to build automation and suggestion engines
 
 # What challenges I anticipate facing
 
-I am very busy and time is very precious. It is going to be very
-hard finding the time to balance my commitments at home and at work while studying 10 &ndash; 15 hours each week.
+When I'm learning somthing I love to explore, ponder and test. I call it being "good distracted," as opposed to being bad distracted by things that have nothing to do with the subject matter. So one challenge I expect is being efficient with the 10-15 hours/wk that I have by discerning what's essential for progressing in the course and what's supplementary.
 
 # What strategies I will use to overcome these challenges
 
-I will establish a set routine for every-day activities, like dinner, studying, and sleeping. This will include a core of 10 hours in the working week, which can be supplemented on the weekend. I will not watch TV or go out during the week.
+Setting reasonable weekly learning/project goals and utilizing hard start/stop times. My daily activities will be building blocks for my weekly goals, so if I get "good distracted," then that's less time I have to make meaningful progress on the course. Those hard time windows can't be extended, which will help me stay focused on what's important.
 
 # My capstone project ideas
 
 Some questions on my mind at the moment include:
 
-* Can historic house prices reveal gentrification waves?
-* Is gentrification associated with increased homelessness?
-* When is the best time to donate to homeless causes?
+* What are the best statistical indicators of success in the NCAA tournament?
+* Which S&P 500 firms’ stock prices are impacted the most by revenue performance?
+* Which socioeconomic factors that correlate most with imprisonment rate?
 
-My thinking here is that historic house price data is readily available, but
-a key question is how to define, and thus detect, gentrification. How would I best
-divide the spatial data into regions? Assuming gentrification can be defined/detected,
-can I obtain matching (regional) data on homelessness? I believe this is notoriously
-underreported. This may be a problem for that question. For the final question, I will
-look at homeless charities and see if they publish any data. My starting assumption is
-that Christmas is a popular time for goodwill, with Christmas dinners provided in various
-locations and shelters opening their doors. But what about the cold months after? Does the
-surge of goodwill and public attention drop, leaving the homeless literally out in the cold?
-Will I need some sort of supply and demand data from a charity?
