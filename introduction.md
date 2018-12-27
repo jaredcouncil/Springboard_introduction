@@ -7,8 +7,8 @@ I'm Jared. I'm a journalist looking to become a data journalist. So I figure lea
 Three things I hope to gain from this course are:
 
 1. Learn how data scientists gather/analyze data
-2. An understanding of how machine learning can be useful for the editorial side of journalism
-3. Coding skills to build automation and suggestion engines
+2. Coding skills to build vizualizations, as well as automation and suggestion engines
+3. An understanding of how machine learning can be useful for the editorial side of journalism
 
 # What challenges I anticipate facing
 
